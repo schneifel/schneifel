@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schneifel
 - 👀 I’m interested in Statistics, Machine Learning
-- 🌱 I am a Master's Student in Bio Data Science
+- 🌱 I am a Master's Student in Bio Data Science, my thesis is about predictive models.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
